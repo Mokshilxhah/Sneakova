@@ -227,3 +227,109 @@ footer {
   font-size: 0.9rem;
   color: #333;
 }
+
+@media (max-width: 1024px) {
+  .navbar {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: auto;
+    padding: 10px 20px;
+    gap: 10px;
+  }
+
+  .navbar h1 {
+    font-size: 1.6rem;
+    flex: 1 1 100%;
+    text-align: center;
+    order: 1;
+  }
+
+  #box-1 {
+    width: 55%;
+    height: 40px;
+    margin: 10px auto;
+    order: 2;
+  }
+
+  .navbar .icon {
+    font-size: 18px;
+    margin: 5px;
+    order: 3;
+  }
+
+  .navbar .icon:not(#box-1) {
+    display: inline-flex;
+  }
+
+  main img {
+    height: auto;
+    max-height: 300px;
+  }
+
+  .nav-bar {
+    flex-wrap: wrap;
+    font-size: 14px;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  .box-class {
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .box {
+    width: 45%;
+    height: auto;
+  }
+
+  .social {
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 15px;
+  }
+
+  .footer-content {
+    flex-wrap: wrap;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .footer-section {
+    min-width: 250px;
+  }
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  #box-1 {
+    width: 85%;
+  }
+
+  .navbar h1 {
+    font-size: 1.4rem;
+  }
+
+  .navbar .icon {
+    font-size: 16px;
+  }
+
+  .box {
+    width: 90%;
+  }
+
+  .nav-bar {
+    font-size: 13px;
+  }
+}
+
+
+
+
+
+
