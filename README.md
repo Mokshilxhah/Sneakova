@@ -72,6 +72,3 @@ Launch via GitHub Pages and share live demo links on LinkedIn for portfolio visi
 ---
 
 ⭐ *If you liked this project, don’t forget to star the repository and follow for more creative front-end builds!*
-
-## 📁 Folder Structure  
-
