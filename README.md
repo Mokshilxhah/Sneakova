@@ -8,6 +8,8 @@ The project focuses on delivering a **visually appealing**, **responsive**, and 
 
 🧩 Currently, the front-end structure and visuals are around **60% complete**, and upcoming updates will introduce interlinking pages, responsiveness, and dynamic interactions.
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://mokshilxhah.github.io/Sneakova/)
+
 ---
 
 ## ✨ Current Progress  
